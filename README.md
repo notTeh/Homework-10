@@ -46,7 +46,7 @@ Run the project using Node.js or any JavaScript runtime environment. For example
 node index.js
 ```
 
-Make sure to adapt the command above to the entry file of the project.
+
 
 ## Contributing
 
